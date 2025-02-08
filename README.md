@@ -2,4 +2,4 @@
 ---
 ## Link do Deploy [GAMEPYTON]()
 ---
-<img src="/favicons/icon">
+<img src="./favicons/icon.png">
